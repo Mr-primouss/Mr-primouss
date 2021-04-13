@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Mr-primouss
-- 👀 I’m interested in mobile Game 
+- i am a beginner
+- 👀 I want to create a mobile game 
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on project mobile game 
+- 💞️ so if there is someone can give some information, i will be so glad
+- thank you ..
 
 
 
